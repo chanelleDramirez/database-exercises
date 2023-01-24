@@ -27,3 +27,8 @@ VALUES ('Michael Jackson','Thriller','1982','51.2','Pop, post-disco, funk, rock'
         ('Eagles','Hotel California','1976','31.8','Soft rock');
         ('Shania Twain','Come On Over','1997','30.4','Country, pop');
         ('Led Zeppelin','Led Zeppelin IV','1971','30.4','Hard rock, heavy metal, folk rock');
+        ('Pink Floyd', 'The Dark Side of the Moon','1973','24.8','Progressive rock');
+        ('Pink Floyd', 'The Wall','1979','18.9','Progressive rock');
+        ('Pink Floyd', 'Wish You Were Here','1975','9.2','Progressive rock, art rock, experimental rock');
+        ('The Beatles', 'Sgt. Pepper''s Lonely Hearts Club Band', '1967', '17.0','Rock');
+        ('Nirvana', 'Nevermind', '1992','17.8','Grunge, alternative rock');
