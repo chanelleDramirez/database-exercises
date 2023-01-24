@@ -6,6 +6,6 @@ CREATE TABLE quotes (
                         name VARCHAR(100),
                         release_date INT,
                         sales  float,
-                        genre VARCHAR(50),
+                        genre(s) VARCHAR(50),
                         PRIMARY KEY (id)
 );
